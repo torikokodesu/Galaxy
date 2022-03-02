@@ -38,7 +38,7 @@
 	}
 	#description {
 		color: #FFF;
-		font-family: "Helvetica Rounded" !important;
+		font-family: "Fantasque Sans Mono" !important;
 		font-size: 12pt;
 		display: inline-block;
 		text-transform: lowercase;
@@ -46,7 +46,7 @@
 	}
 	#temp_curr {
 		color: #FFF;
-		font-family: "Helvetica Rounded" !important;
+		font-family: "Fantasque Sans Mono" !important;
 		font-size: 12pt;
 		display: inline-block;
 		padding-left: 2px;
@@ -130,7 +130,7 @@
 	}
 	.box a {
 		color: #FFF;
-		font-family: "Helvetica Rounded" !important;
+		font-family: "Fantasque Sans Mono" !important;
 		font-size: 13pt;
 		line-height: 30px;
 		text-align: right;
@@ -143,7 +143,7 @@
 	}
 	.box h1 {
 		color: #FFF;
-		font-family: "Helvetica Rounded", "KFhimaji" !important;
+		font-family: "Fantasque Sans Mono", "KFhimaji" !important;
 		text-align: right;
 	}
 	.button {
@@ -151,7 +151,7 @@
 		background: transparent;
 		border: none !important;	
 		color: #000;
-		font-family: "Helvetica Rounded" !important;
+		font-family: "Fantasque Sans Mono" !important;
 		position: absolute;
 		margin-left: 20%;
 		margin-top: 18%;
