@@ -14,9 +14,9 @@ String.prototype.replaceChars = function(character, replacement){
  
 function search(query){
     switch(query.substr(0, 2)){
-        case "-u":
+        case ".d":
             query = query.substr(3);
-            window.location = "https://userstyles.org/styles/browse?search_terms=" +
+            window.location = "https://discord.com/channels/956822445384421386/956844506001571910" +
             query.replaceChars(" ", "+");
             break;
 
